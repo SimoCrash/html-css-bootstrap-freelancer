@@ -56,7 +56,7 @@
 }
 
 .col_head {
-    height: 30px;
+    height: 3px;
 }
 
 @media (min-width: 768px) {
@@ -87,5 +87,50 @@
     .content-bottom-header {
         max-width: 70%;
     }
+}
+
+
+/* MAIN */
+
+.main h1 {
+    text-align: center;
+}
+
+.main .row.col_port {
+    height: 3px;
+}
+
+.main .row {
+    height: 200px;
+}
+
+.main .card_first {
+    background-color: #BA4B63;
+    height: 100%;
+}
+
+.main .card_second {
+    background-color: #1EA4B6;
+    height: 100%;
+}
+
+.main .card_third {
+    background-color: #140F0F;
+    height: 100%;
+}
+
+.main .card_fourth {
+    background-color: #1C83C1;
+    height: 100%;
+}
+
+.main .card_fifth {
+    background-color: #0E38B5;
+    height: 100%;
+}
+
+.main .card_sixth {
+    background-color: #CCB2A3;
+    height: 100%;
 }
 
