@@ -30,14 +30,10 @@ body {
     width: 100%;
 }
 
-.img-profile {
-    display: inline-block;
-    height: 100px;
-}
+/* section portfolio */
 
 .bl_card {
-    background-color: salmon;
-    border-radius: 3rem;
+    border-radius: 10px;
     overflow: hidden;
 }
 
