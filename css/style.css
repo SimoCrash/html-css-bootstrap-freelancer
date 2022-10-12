@@ -22,6 +22,14 @@ body {
     color: #1ABC9C;
 }
 
+/* header: section-bottom */
+.star .line-star {
+    height: 3px;
+    background-color: white;
+    margin: .5rem;
+    width: 100%;
+}
+
 .img-profile {
     display: inline-block;
     height: 100px;
