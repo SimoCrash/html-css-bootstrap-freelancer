@@ -1,5 +1,40 @@
 body {
+    font-family: 'Raleway', sans-serif;
     color: white;
 }
 
+.header-page {
+    background-color: rgba(26, 155, 123, 0.9);
+}
 
+.nav-top {
+    background-color: black;
+    height: 3rem;
+}
+
+.img-profile {
+    display: inline-block;
+    height: 100px;
+}
+
+.bl_card {
+    background-color: salmon;
+    border-radius: 3rem;
+    overflow: hidden;
+}
+
+.about {
+    background-color: rgba(26, 155, 123, 0.9);
+}
+
+.btn_send {
+    background-color: aquamarine;
+}
+
+
+.container input {
+    border: none;
+    border-bottom: 2px solid black;
+    box-shadow: none;
+    border-radius: 0;
+}
