@@ -2,14 +2,24 @@ body {
     font-family: 'Raleway', sans-serif;
     color: white;
 }
-
+/* header */
 .header-page {
     background-color: rgba(26, 155, 123, 0.9);
 }
+/* header: navbar */
+.nav_bar {
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 5px;
+}
 
-.nav-top {
-    background-color: black;
-    height: 3rem;
+.menu_bar a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu_bar a:hover {
+    color: #1ABC9C;
 }
 
 .img-profile {
